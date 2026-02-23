@@ -185,7 +185,7 @@ function setSearchLocation(lat, lng, placeName) {
         .addTo(map)
         .bindPopup(`
             <div class="marker-popup">
-                <h3>📍 Your Location</h3>
+                <h3>Your Location</h3>
                 <p>${placeName}</p>
             </div>
         `);
