@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buffer Wiener - .300 BLK Buffer & Spring Database</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🎯 Buffer Wiener</h1>
+        <p>.300 Blackout Buffer & Spring Configuration Database</p>
+    </header>
+
+    <nav class="tabs">
+        <button class="tab-btn active" data-tab="browse">Browse Configs</button>
+        <button class="tab-btn" data-tab="helper">Build Helper</button>
+        <button class="tab-btn" data-tab="submit">Submit Your Config</button>
+    </nav>
+
+    <main>
+        <!-- BROWSE TAB -->
+        <section id="browse" class="tab-content active">
+            <div class="filters">
+                <h2>Filter Configurations</h2>
+                <div class="filter-grid">
+                    <div class="filter-group">
+                        <label for="filter-barrel">Barrel Length</label>
+                        <select id="filter-barrel">
+                            <option value="">All</option>
+                            <option value="7.5">7.5"</option>
+                            <option value="8">8"</option>
+                            <option value="8.5">8.5"</option>
+                            <option value="9">9"</option>
+                            <option value="10">10"</option>
+                            <option value="10.3">10.3"</option>
+                            <option value="10.5">10.5"</option>
+                            <option value="16">16"</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-suppressor">Suppressor</label>
+                        <select id="filter-suppressor">
+                            <option value="">All</option>
+                            <option value="yes">Suppressed</option>
+                            <option value="no">Unsuppressed</option>
+                            <option value="both">Both</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-ammo">Ammo Type</label>
+                        <select id="filter-ammo">
+                            <option value="">All</option>
+                            <option value="subsonic">Subsonic</option>
+                            <option value="supersonic">Supersonic</option>
+                            <option value="both">Both</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-frt">FRT</label>
+                        <select id="filter-frt">
+                            <option value="">All</option>
+                            <option value="yes">Yes</option>
+                            <option value="no">No</option>
+                        </select>
+                    </div>
+                </div>
+                <button id="reset-filters">Reset Filters</button>
+                <p class="result-count"><span id="count">38</span> configurations shown</p>
+            </div>
+
+            <div class="table-container">
+                <table id="config-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="Configuration">Configuration</th>
+                            <th data-sort="Barrel Length">Barrel</th>
+                            <th data-sort="Buffer Type">Buffer</th>
+                            <th data-sort="Buffer Weight (oz)">Weight (oz)</th>
+                            <th data-sort="Spring Type">Spring</th>
+                            <th data-sort="Ammo Type">Ammo</th>
+                            <th data-sort="Suppressor Type">Suppressor</th>
+                            <th data-sort="FRT">FRT</th>
+                            <th>Details</th>
+                        </tr>
+                    </thead>
+                    <tbody id="config-tbody">
+                        <!-- Populated by JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- BUILD HELPER TAB -->
+        <section id="helper" class="tab-content">
+            <h2>Build Your .300 BLK</h2>
+            <p class="subtitle">Answer a few questions and get buffer/spring recommendations</p>
+
+            <div class="wizard">
+                <div class="question">
+                    <label>What's your barrel length?</label>
+                    <select id="helper-barrel">
+                        <option value="">Select...</option>
+                        <option value="7.5-8">7.5" - 8"</option>
+                        <option value="8-10">8" - 10"</option>
+                        <option value="10-11">10" - 11"</option>
+                        <option value="16+">16"+</option>
+                    </select>
+                </div>
+
+                <div class="question">
+                    <label>Will you run suppressed?</label>
+                    <select id="helper-suppressed">
+                        <option value="">Select...</option>
+                        <option value="yes">Yes, always</option>
+                        <option value="no">No, never</option>
+                        <option value="both">Both suppressed and unsuppressed</option>
+                    </select>
+                </div>
+
+                <div class="question">
+                    <label>What ammo will you shoot?</label>
+                    <select id="helper-ammo">
+                        <option value="">Select...</option>
+                        <option value="subsonic">Subsonic only</option>
+                        <option value="supersonic">Supersonic only</option>
+                        <option value="both">Both subsonic and supersonic</option>
+                    </select>
+                </div>
+
+                <div class="question">
+                    <label>Are you running an FRT?</label>
+                    <select id="helper-frt">
+                        <option value="">Select...</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
+                </div>
+
+                <button id="get-recommendation" class="primary-btn">Get Recommendation</button>
+
+                <div id="recommendation-result" class="result-box" style="display: none;">
+                    <!-- Populated by JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- SUBMIT TAB -->
+        <section id="submit" class="tab-content">
+            <h2>Submit Your Configuration</h2>
+            <p class="subtitle">Help the community by sharing what works (or doesn't) in your build</p>
+
+            <form id="submit-form" class="submit-form">
+                <div class="form-group">
+                    <label for="submit-barrel">Barrel Length *</label>
+                    <input type="text" id="submit-barrel" placeholder='e.g. 8.5"' required>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-buffer">Buffer Type *</label>
+                    <input type="text" id="submit-buffer" placeholder="e.g. H2, Carbine, A5H2" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-buffer-weight">Buffer Weight (oz)</label>
+                    <input type="text" id="submit-buffer-weight" placeholder="e.g. 4.6">
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-spring">Spring Type *</label>
+                    <input type="text" id="submit-spring" placeholder="e.g. Standard Carbine, Sprinco Blue" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-ammo">Ammo Type *</label>
+                    <select id="submit-ammo" required>
+                        <option value="">Select...</option>
+                        <option value="Subsonic">Subsonic only</option>
+                        <option value="Supersonic">Supersonic only</option>
+                        <option value="Both">Both Sub/Super</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-suppressor">Suppressor *</label>
+                    <select id="submit-suppressor" required>
+                        <option value="">Select...</option>
+                        <option value="Yes">Suppressed</option>
+                        <option value="No">Unsuppressed</option>
+                        <option value="Both">Both</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-suppressor-model">Suppressor Model (if applicable)</label>
+                    <input type="text" id="submit-suppressor-model" placeholder="e.g. Dead Air Sandman S">
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-frt">FRT? *</label>
+                    <select id="submit-frt" required>
+                        <option value="">Select...</option>
+                        <option value="Yes">Yes</option>
+                        <option value="No">No</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-status">Does it work? *</label>
+                    <select id="submit-status" required>
+                        <option value="">Select...</option>
+                        <option value="works">✅ Works great</option>
+                        <option value="works-tuning">✅ Works after tuning</option>
+                        <option value="issues">⚠️ Has issues</option>
+                        <option value="doesnt-work">❌ Doesn't work</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-notes">Notes / Issues / Details *</label>
+                    <textarea id="submit-notes" rows="4" placeholder="Describe how it runs, any issues, tuning required, etc." required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="submit-source">Your Name / Username (optional)</label>
+                    <input type="text" id="submit-source" placeholder="Anonymous">
+                </div>
+
+                <button type="submit" class="primary-btn">Submit Configuration</button>
+
+                <div id="submit-result" class="result-box" style="display: none;">
+                    <!-- Populated by JS -->
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>Data compiled from AR15.com, Reddit r/300BLK, manufacturer specs, and user testing</p>
+        <p><strong>38 verified configurations</strong> • Last updated: 2026-02-23</p>
+        <p><a href="https://github.com/bayoclaw-byte/bufferwiener" target="_blank">GitHub</a></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
