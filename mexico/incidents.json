@@ -1,0 +1,1055 @@
+[
+  {
+    "id": 1,
+    "name_spanish": "INCENDIO BANCOS BIENESTAR",
+    "name_english": "FIRE AT BIENESTAR BANK",
+    "type": "FIRE",
+    "lng": -102.275902217528,
+    "lat": 20.3325568805753,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 2,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -102.062202778624,
+    "lat": 20.398027928676,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 3,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -102.323804171651,
+    "lat": 20.2848964546948,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 4,
+    "name_spanish": "Puente de Fierro",
+    "name_english": "Iron Bridge",
+    "type": "OTHER",
+    "lng": -102.653187,
+    "lat": 19.0479202,
+    "style": "#icon-1764-C2185B-nodesc"
+  },
+  {
+    "id": 5,
+    "name_spanish": "NARCOBLOQUEO",
+    "name_english": "NARCO BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -102.272225364317,
+    "lat": 20.0669341311638,
+    "style": "#icon-1764-C2185B-nodesc"
+  },
+  {
+    "id": 6,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -102.219026345538,
+    "lat": 20.1605623702516,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 7,
+    "name_spanish": "QUEMA DE AVION",
+    "name_english": "QUEMA DE AVION",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.309643,
+    "lat": 20.5255415,
+    "style": "#icon-1571-A52714"
+  },
+  {
+    "id": 8,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.742936,
+    "lat": 21.181019,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 9,
+    "name_spanish": "QUEMA EN GAN PLAZA LEON",
+    "name_english": "QUEMA EN GAN PLAZA LEON",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.4045833,
+    "lat": 20.6739898,
+    "style": "#icon-1571-A52714"
+  },
+  {
+    "id": 10,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.632355,
+    "lat": 21.1439886,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 11,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.347973,
+    "lat": 20.668543,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 12,
+    "name_spanish": "QUEMA EN BARA CERRO DEL GIGANTE",
+    "name_english": "QUEMA EN BARA CERRO DEL GIGANTE",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.6243114,
+    "lat": 21.0761369,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 13,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.6779332,
+    "lat": 21.1333438,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 14,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.7084873,
+    "lat": 21.1172961,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 15,
+    "name_spanish": "QUEMA DE CAMION",
+    "name_english": "QUEMA DE CAMION",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.3514414,
+    "lat": 20.7072153,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 16,
+    "name_spanish": "QUEMA DE VEHICULOS POZA RICA - TAMPICO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.7310137631358,
+    "lat": 21.09403401,
+    "style": "#icon-1571-A52714"
+  },
+  {
+    "id": 17,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.2704156,
+    "lat": 21.0204998,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 18,
+    "name_spanish": "ENFRENTAMIENTO ARMADO TUXPAN - VERACRUZ",
+    "name_english": "ARMED CONFRONTATION",
+    "type": "CONFRONTATION",
+    "lng": -97.4012109358494,
+    "lat": 20.94510045,
+    "style": "#icon-1588-A52714-nodesc"
+  },
+  {
+    "id": 19,
+    "name_spanish": "QUEMA DE VEHICULOS TIHUATLAN - ALAMO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.5655425019605,
+    "lat": 20.80222899,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 20,
+    "name_spanish": "QUEMA DE VEHICULOS COATZACOALCOS - SALINA CRUZ",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -95.20912,
+    "lat": 16.22353,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 21,
+    "name_spanish": "QUEMA DE VEHICULOS PUEBLA",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.1268411355813,
+    "lat": 19.07043126,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 22,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.1445539834853,
+    "lat": 19.0343524,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 23,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.2190564016371,
+    "lat": 18.9966375380607,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 24,
+    "name_spanish": "QUEMA DE OXXOS VEHICULOS",
+    "name_english": "QUEMA DE OXXOS VEHICULOS",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.4981226,
+    "lat": 20.94928861,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 25,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.309255,
+    "lat": 20.66112562,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 26,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -94.9483108479167,
+    "lat": 16.6333961084836,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 27,
+    "name_spanish": "QUEMA DE VEHICULO COATZACOALCOS - SLAINA CRUZ",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -94.795375,
+    "lat": 17.9600277,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 28,
+    "name_spanish": "ENFRENTAMIENTO Y QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.491075142828,
+    "lat": 20.4898461348026,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 29,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -95.7097347318755,
+    "lat": 17.8728949368191,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 30,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.2813423119472,
+    "lat": 18.8602322261387,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 31,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.1164125536518,
+    "lat": 19.0700708408142,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 32,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.4252213,
+    "lat": 19.238421,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 33,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.600917039591,
+    "lat": 19.3466648279126,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 34,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -100.344948843645,
+    "lat": 19.4592803031699,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 35,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.259116954814,
+    "lat": 19.6298974862144,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 36,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -102.203012897604,
+    "lat": 19.9008681554393,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 37,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.7720774,
+    "lat": 19.3022184,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 38,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.6482883,
+    "lat": 19.3235608,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 39,
+    "name_spanish": "INCENDIO BANCO BIENESTAR",
+    "name_english": "FIRE",
+    "type": "FIRE",
+    "lng": -102.060317299256,
+    "lat": 19.9694536860429,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 40,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -93.1031379,
+    "lat": 16.7705978,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 41,
+    "name_spanish": "INTENTO DE QUEMA A T1 FRUSTADO",
+    "name_english": "INTENTO DE QUEMA A T1 FRUSTADO",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.602425242393,
+    "lat": 21.0757445986824,
+    "style": "#icon-1764-817717-nodesc"
+  },
+  {
+    "id": 42,
+    "name_spanish": "QUEMA DE UNIDAD T1",
+    "name_english": "QUEMA DE UNIDAD T1",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.5976881577037,
+    "lat": 19.3451746619968,
+    "style": "#icon-1764-FFD600-nodesc"
+  },
+  {
+    "id": 43,
+    "name_spanish": "QUEMA UNIDAD T1",
+    "name_english": "QUEMA UNIDAD T1",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.584276,
+    "lat": 20.4526357,
+    "style": "#icon-1764-FFD600-nodesc"
+  },
+  {
+    "id": 44,
+    "name_spanish": "QUEMA DE UNIDADES",
+    "name_english": "QUEMA DE UNIDADES",
+    "type": "VEHICLE_BURNING",
+    "lng": -102.907621028018,
+    "lat": 20.4659838230822,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 45,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.344659330869,
+    "lat": 20.727485532505,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 46,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.388954,
+    "lat": 20.759396,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 47,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.3831267,
+    "lat": 20.7571992,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 48,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.2417501000001,
+    "lat": 19.9507181897944,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 49,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.966254889301,
+    "lat": 20.9044075409682,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 50,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -100.038590140969,
+    "lat": 20.4114079784281,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 51,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.2947285674555,
+    "lat": 26.0562623979477,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 52,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.3673086844471,
+    "lat": 26.0790896520394,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 53,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.3425834840844,
+    "lat": 19.977702033974,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 54,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.405666381973,
+    "lat": 20.6468096255962,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 55,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.8418801891161,
+    "lat": 26.311987115132,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 56,
+    "name_spanish": "QUEMA DE UNIDADES",
+    "name_english": "QUEMA DE UNIDADES",
+    "type": "VEHICLE_BURNING",
+    "lng": -103.099389242197,
+    "lat": 20.5863109171222,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 57,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -96.9895098,
+    "lat": 18.9059201,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 58,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.6731776,
+    "lat": 18.9278601,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 59,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.139753,
+    "lat": 18.838201,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 60,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -86.9814244702983,
+    "lat": 21.0971864242333,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 61,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -87.0938916192884,
+    "lat": 20.6180982337768,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 62,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.9167943606697,
+    "lat": 16.8617292797761,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 63,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.9075186253676,
+    "lat": 16.8628035511343,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 64,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.8357187229426,
+    "lat": 16.8907787221853,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 65,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.833667370922,
+    "lat": 16.9002275089658,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 66,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.8020346216652,
+    "lat": 16.9284714315769,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 67,
+    "name_spanish": "ENFRENTAMIENTO",
+    "name_english": "ARMED CONFRONTATION",
+    "type": "CONFRONTATION",
+    "lng": -98.1656098,
+    "lat": 19.0513697,
+    "style": "#icon-1588-A52714-nodesc"
+  },
+  {
+    "id": 68,
+    "name_spanish": "QUEMA DE UNIDAD",
+    "name_english": "QUEMA DE UNIDAD",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.4382646,
+    "lat": 18.8454079,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 69,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.1768174,
+    "lat": 18.8800598,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 70,
+    "name_spanish": "QUEMA OXXO",
+    "name_english": "QUEMA OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -100.3745636,
+    "lat": 20.5828915,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 71,
+    "name_spanish": "QUEMA DE BANCO",
+    "name_english": "QUEMA DE BANCO",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.5282889,
+    "lat": 20.4531028,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 72,
+    "name_spanish": "QUEMA OXXO",
+    "name_english": "QUEMA OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.5304232,
+    "lat": 20.4520172,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 73,
+    "name_spanish": "QUEMA OXXO",
+    "name_english": "QUEMA OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -93.7217571515985,
+    "lat": 16.6924999831351,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 74,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.9698659,
+    "lat": 19.3610441,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 75,
+    "name_spanish": "QUEMA OXXO",
+    "name_english": "QUEMA OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.1463341,
+    "lat": 19.0416232,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 76,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.2384664,
+    "lat": 18.858994,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 77,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -100.1309806,
+    "lat": 19.4109448,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 78,
+    "name_spanish": "QUEMA BANCO DEL BIENESTAR",
+    "name_english": "QUEMA BANCO DEL BIENESTAR",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.0841136,
+    "lat": 19.6443457,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 79,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.1707079668706,
+    "lat": 19.2456984572943,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 80,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -93.3960709,
+    "lat": 17.8339694,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 81,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -93.3962277,
+    "lat": 17.8249564,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 82,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -100.1440383,
+    "lat": 19.3087864,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 83,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.8664668,
+    "lat": 18.8833892,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 84,
+    "name_spanish": "QUEMA DE OXXO",
+    "name_english": "QUEMA DE OXXO",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.3594355,
+    "lat": 18.7648968,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 85,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -99.3644753,
+    "lat": 18.7270683,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 86,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.8800762,
+    "lat": 21.337406,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 87,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -117.0986514,
+    "lat": 32.5361336,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 88,
+    "name_spanish": "QUEMA DE VEHICULOS",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -97.9590459979059,
+    "lat": 20.3378921427411,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 89,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -101.602010224263,
+    "lat": 21.1103938672983,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 90,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -102.5204866,
+    "lat": 19.1089353,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 91,
+    "name_spanish": "QUEMA DE ESTABLECIMIENTO",
+    "name_english": "QUEMA DE ESTABLECIMIENTO",
+    "type": "VEHICLE_BURNING",
+    "lng": -93.0523139,
+    "lat": 16.7338362,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 92,
+    "name_spanish": "QUEMA DE ESTABLECIMIENTO",
+    "name_english": "QUEMA DE ESTABLECIMIENTO",
+    "type": "VEHICLE_BURNING",
+    "lng": -92.939775,
+    "lat": 18.004483,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 93,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -96.4958338964039,
+    "lat": 15.6679792783939,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 94,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -93.7422395,
+    "lat": 18.1525867,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 95,
+    "name_spanish": "QUEMA DE VEHICULO",
+    "name_english": "VEHICLE BURNING",
+    "type": "VEHICLE_BURNING",
+    "lng": -92.9668345,
+    "lat": 17.971814,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 96,
+    "name_spanish": "BLOQUEO",
+    "name_english": "BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -103.2647712,
+    "lat": 20.6903483,
+    "style": "#icon-1899-0288D1"
+  },
+  {
+    "id": 97,
+    "name_spanish": "BLOQUEO",
+    "name_english": "BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -102.9098351,
+    "lat": 20.4674832,
+    "style": "#icon-1899-0288D1-nodesc"
+  },
+  {
+    "id": 98,
+    "name_spanish": "BLOQUEO",
+    "name_english": "BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -102.9082877,
+    "lat": 20.4677132,
+    "style": "#icon-1899-0288D1"
+  },
+  {
+    "id": 99,
+    "name_spanish": "BLOQUEO",
+    "name_english": "BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -102.7389888,
+    "lat": 20.4058373,
+    "style": "#icon-1899-0288D1"
+  },
+  {
+    "id": 100,
+    "name_spanish": "BLOQUEO",
+    "name_english": "BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -102.4431197,
+    "lat": 20.2691408,
+    "style": "#icon-1899-0288D1"
+  },
+  {
+    "id": 101,
+    "name_spanish": "Caseta Zamora AUTOVIM",
+    "name_english": "Caseta Zamora AUTOVIM",
+    "type": "OTHER",
+    "lng": -102.2440868,
+    "lat": 20.1728943,
+    "style": "#icon-1899-0288D1"
+  },
+  {
+    "id": 102,
+    "name_spanish": "QUEMA DE ESTABLECIMIENTO",
+    "name_english": "QUEMA DE ESTABLECIMIENTO",
+    "type": "VEHICLE_BURNING",
+    "lng": -98.931609,
+    "lat": 19.28755,
+    "style": "#icon-1571-A52714-nodesc"
+  },
+  {
+    "id": 103,
+    "name_spanish": "BLOQUEO",
+    "name_english": "BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -103.2033777,
+    "lat": 18.7593521,
+    "style": "#icon-1899-0288D1"
+  },
+  {
+    "id": 104,
+    "name_spanish": "BLOQUEO",
+    "name_english": "BLOCKADE",
+    "type": "BLOCKADE",
+    "lng": -103.2158017,
+    "lat": 18.7462155,
+    "style": "#icon-1899-0288D1"
+  },
+  {
+    "id": 105,
+    "name_spanish": "OPERATIVO DE SEGURIDAD  LICONSA - MICHOACAN",
+    "name_english": "OPERATIVO DE SEGURIDAD  LICONSA - MICHOACAN",
+    "type": "OTHER",
+    "lng": -102.7173717,
+    "lat": 20.00105574,
+    "style": "#icon-1656-097138-nodesc"
+  },
+  {
+    "id": 106,
+    "name_spanish": "LA ESPERANZA",
+    "name_english": "LA ESPERANZA",
+    "type": "OTHER",
+    "lng": -97.3858756,
+    "lat": 18.8707272,
+    "style": "#icon-1882-F57C00-nodesc"
+  },
+  {
+    "id": 107,
+    "name_spanish": "SAN MARTIN TEXMELUCAN",
+    "name_english": "SAN MARTIN TEXMELUCAN",
+    "type": "OTHER",
+    "lng": -98.4110427,
+    "lat": 19.2971364,
+    "style": "#icon-1882-F57C00-nodesc"
+  },
+  {
+    "id": 108,
+    "name_spanish": "LA VENTA",
+    "name_english": "LA VENTA",
+    "type": "OTHER",
+    "lng": -99.8019166,
+    "lat": 16.9283996,
+    "style": "#icon-1882-F57C00-nodesc"
+  },
+  {
+    "id": 109,
+    "name_spanish": "PUENTE REYNOSA",
+    "name_english": "PUENTE REYNOSA",
+    "type": "OTHER",
+    "lng": -98.2724993,
+    "lat": 26.0936041,
+    "style": "#icon-1502-F57C00-nodesc"
+  },
+  {
+    "id": 110,
+    "name_spanish": "PUENTE SAN JUAN",
+    "name_english": "PUENTE SAN JUAN",
+    "type": "OTHER",
+    "lng": -98.8405703,
+    "lat": 26.3076353,
+    "style": "#icon-1882-F57C00-nodesc"
+  },
+  {
+    "id": 111,
+    "name_spanish": "PUENTE CAMARGO",
+    "name_english": "PUENTE CAMARGO",
+    "type": "OTHER",
+    "lng": -98.8024548,
+    "lat": 26.3658024,
+    "style": "#icon-1502-F57C00-nodesc"
+  },
+  {
+    "id": 112,
+    "name_spanish": "CASETA COMPOSTELA",
+    "name_english": "CASETA COMPOSTELA",
+    "type": "OTHER",
+    "lng": -104.8874797,
+    "lat": 21.2296087,
+    "style": "#icon-1502-F57C00-nodesc"
+  },
+  {
+    "id": 113,
+    "name_spanish": "CASETA LAGOS DE MORENO",
+    "name_english": "CASETA LAGOS DE MORENO",
+    "type": "OTHER",
+    "lng": -101.7633247,
+    "lat": 21.4904219,
+    "style": "#icon-1502-F57C00-nodesc"
+  },
+  {
+    "id": 114,
+    "name_spanish": "CASET AEL HONGO",
+    "name_english": "CASET AEL HONGO",
+    "type": "OTHER",
+    "lng": -116.3200152,
+    "lat": 32.521808,
+    "style": "#icon-1502-F57C00-nodesc"
+  },
+  {
+    "id": 115,
+    "name_spanish": "CASETA PALMILLAS",
+    "name_english": "CASETA PALMILLAS",
+    "type": "OTHER",
+    "lng": -99.9290563,
+    "lat": 20.2960578,
+    "style": "#icon-1502-F57C00-nodesc"
+  },
+  {
+    "id": 116,
+    "name_spanish": "TRAMO CD. CORDOBA - VERACRUZ",
+    "name_english": "TRAMO CD. CORDOBA - VERACRUZ",
+    "type": "OTHER",
+    "lng": -96.8763481,
+    "lat": 18.8610052,
+    "style": "#line-F57C00-5069-nodesc"
+  },
+  {
+    "id": 117,
+    "name_spanish": "CASETA SAN MARCOS HUIXTOCO",
+    "name_english": "CASETA SAN MARCOS HUIXTOCO",
+    "type": "OTHER",
+    "lng": -98.870719,
+    "lat": 19.2963653,
+    "style": "#icon-1502-F57C00-nodesc"
+  }
+]
